@@ -2,6 +2,42 @@
 <resources>
     <string name="app_name">Political Preparedness</string>
 
-    <!-- TODO: Add necessary string values -->
+    <!-- Launch Screen -->
+    <string name="upcoming_elections_button">Upcoming Elections</string>
+    <string name="representative_button">Find My Representations</string>
+
+    <!-- Upcoming  Elections Screen -->
+    <string name="upcoming_election_header">Upcoming Elections</string>
+    <string name="saved_election_header">Saved Elections</string>
+    <string name="error_upcoming_election">Can\'t not retrieve upcoming election</string>
+
+    <!-- Voter Information Screen -->
+    <string name="election_information">Election Information</string>
+    <string name="follow_button">Follow Election</string>
+    <string name="unfollow_button">Unfollow Election</string>
+    <string name="voting_locations_with_url">Voting Locations: {url}</string>
+    <string name="ballot_information_with_url">Ballot Information: {url}</string>
+    <string name="error_voter_information">Can\'t not retrieve voter information detail</string>
+
+    <!-- Representative Screen -->
+    <string name="search_title">Representative Search</string>
+    <string name="my_representatives">My Representatives</string>
+    <string name="find_my_representatives_button">Find My Representatives</string>
+    <string name="use_my_location_button">Use My Location</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="city">City</string>
+    <string name="zip">Zip</string>
+    <string name="ic_profile_description">Profile image of representation</string>
+    <string name="ic_web_site_description">Web site link</string>
+    <string name="ic_facebook_description">Facebook link</string>
+    <string name="ic_twitter_description">Twitter link</string>
+    <string name="search_result_no_data">No data!</string>
+
+    <!-- Location -->
+    <string name="location_services_denied_explanation">Location services must be enabled to use this feature.</string>
+    <string name="location_permission_denied_explanation">You need to grant location permission to use this feature.</string>
+    <string name="location_permission_required_rationale">Location permission is required to fetch the current address.</string>
+    <string name="settings">Settings</string>
 
 </resources>
