@@ -75,18 +75,13 @@ Users will be able to target a specific location and retrieve the associated civ
 
 1. Clone this repository.
 2. Open `starter` folder via Android Studio IDE
-3. Go to `google_maps_api.xml` file, replace with your api key under `google_maps_key` variable
+3. Go to `gradle.properties` file, replace with your api key under `CIVIC_INFORMATION_API_KEY` variable
 
 ## Demo
 
 #### Demo main features
 
-https://user-images.githubusercontent.com/6292433/129246637-cccc620f-2f29-4bd1-b195-1f82eb4ab63a.mp4
-
-
-#### Demo Espresso Testing `RemindersActivityTest`
-
-https://user-images.githubusercontent.com/6292433/129246557-c4047f55-6887-469e-bece-a032e49ce856.mp4
+https://user-images.githubusercontent.com/6292433/130782651-7acf19d9-7cba-45db-b9dd-f4109c9ad285.mp4
 
 
 ## License
